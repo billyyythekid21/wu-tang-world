@@ -1,0 +1,36 @@
+
+body {
+  background-color: darkgoldenrod;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 80px;
+  font-family: Georgia, serif;
+}
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: left;
+  padding: 14px 16px ;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: green;
+  color: white;
+}
