@@ -10,6 +10,12 @@ h1 {
   font-family: Georgia, serif;
 }
 
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 40px;
+  font-family: Georgia, serif;
+}
 .topnav {
   background-color: black;
   overflow: hidden;
